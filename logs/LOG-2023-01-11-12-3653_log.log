@@ -1,0 +1,8 @@
+12:36:53.890 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:36:53.894 [main] INFO  utils.Log - Started test case :homework30Test
+12:36:53.895 [main] INFO  utils.Log - Start time :2023.01.11.12.36.53
+12:36:53.896 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:36:53.900 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:36:53.900 [main] INFO  utils.Log - Skipped test case :homework30Test
+12:36:53.901 [main] INFO  utils.Log - Skip time :2023.01.11.12.36.53
+12:36:53.902 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++

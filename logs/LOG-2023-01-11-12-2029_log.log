@@ -1,0 +1,16 @@
+12:20:29.686 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.693 [main] INFO  utils.Log - Started test case :validLoginTest
+12:20:29.695 [main] INFO  utils.Log - Start time :2023.01.11.12.20.29
+12:20:29.695 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.700 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.700 [main] INFO  utils.Log - Skipped test case :validLoginTest
+12:20:29.701 [main] INFO  utils.Log - Skip time :2023.01.11.12.20.29
+12:20:29.701 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.716 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.721 [main] INFO  utils.Log - Started test case :invalidLoginTest
+12:20:29.722 [main] INFO  utils.Log - Start time :2023.01.11.12.20.29
+12:20:29.722 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.729 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
+12:20:29.731 [main] INFO  utils.Log - Skipped test case :invalidLoginTest
+12:20:29.734 [main] INFO  utils.Log - Skip time :2023.01.11.12.20.29
+12:20:29.735 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++++++++++++
