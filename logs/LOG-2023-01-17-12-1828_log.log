@@ -1,0 +1,11 @@
+12:18:28.212 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+12:18:28.796 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+12:18:29.900 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+12:18:29.957 [main] INFO  utils.Log - called clear on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+12:18:30.223 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+12:18:30.323 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+12:18:30.380 [main] INFO  utils.Log - called clear on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+12:18:30.432 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+12:18:30.501 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+12:18:30.567 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+12:18:32.517 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //li[contains(@class,'category-parent')]/a[contains(text(),'Fruits & Vegetables')]

@@ -1,0 +1,34 @@
+14:15:31.959 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+14:15:32.951 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+14:15:50.253 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+14:15:51.460 [main] INFO  utils.Log - called clear on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+14:15:52.600 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+14:15:52.749 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+14:15:52.804 [main] INFO  utils.Log - called clear on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+14:15:52.850 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+14:15:52.921 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+14:15:53.110 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+14:15:55.528 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: div[class*='locked']
+14:15:58.012 [main] INFO  utils.Log - called method <Click()> on element :<div class="all-categories locked">
+		<a href="#" data-toggle="collapse" data-target="#all-categories">
+			<i class="klbth-icon-menu-thin"></i>
+			<span class="text">ALL CATEGORIES</span>
+												
+			<div class="description">TOTAL 63 PRODUCTS</div>
+		</a>
+		
+				<div class="dropdown-categories collapse " id="all-categories" style="">
+			<ul id="menu-sidebar-menu" class="menu-list"><li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/fruits-vegetables/"><i class="klbth-icon-apple-juice"></i> Fruits &amp; Vegetables</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/meats-seafood/"><i class="klbth-icon-meat"></i> Meats &amp; Seafood</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/breakfast-dairy/"><i class="klbth-icon-boiled-egg"></i> Breakfast &amp; Dairy</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/beverages/"><i class="klbth-icon-cup"></i> Beverages</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/breads-bakery/"><i class="klbth-icon-biscuit"></i> Breads &amp; Bakery</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/frozen-foods/"><i class="klbth-icon-snowflake"></i> Frozen Foods</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/biscuits-snacks/"><i class="klbth-icon-candy"></i> Biscuits &amp; Snacks</a></li>
+<li class="category-parent  menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://keyfood.ro/product-category/grocery-staples/"><i class="klbth-icon-vegan"></i> Grocery &amp; Staples</a></li>
+</ul>		</div>
+		
+	</div>
+14:15:58.078 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //li[contains(@class,'category-parent')]/a[contains(text(),'Grocery & Staples')]
+14:15:59.663 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/product-category/grocery-staples/"><i class="klbth-icon-vegan"></i> Grocery &amp; Staples</a>
+14:16:11.358 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //div[contains(@class,'type-product')]//div[@class='thumbnail-wrapper']/a/img[contains(@alt, 'Shimmer Pastel Almond Blend')]/parent::a

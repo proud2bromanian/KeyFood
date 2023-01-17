@@ -33,7 +33,7 @@ public class Homework31_1 extends BaseTest{
 			switch(list.indexOf(i)) {  		
 			 
 			 case 1:  menulistIndex = 2;
-			 			categoryPageIndex =7;		
+			 		  categoryPageIndex =7;		
 	         break;
 			 case 2:  menulistIndex = 6;
 			 			categoryPageIndex =3;

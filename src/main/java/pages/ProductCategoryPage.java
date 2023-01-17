@@ -15,5 +15,13 @@ public class ProductCategoryPage extends SeleniumWrappers {
 
 	public By products = By.xpath("//div[contains(@class,'type-product')]//div[@class='thumbnail-wrapper']/a");
 	//public By products = By.xpath("//h3[@class='product-title']/a");
-
+	
+	public By getProduct(String value) {
+		
+		
+		
+		return By.xpath(("//div[contains(@class,'type-product')]//div[@class='thumbnail-wrapper']/a/img[contains(@alt, '"+value +"')]/parent::a"));
+		
+	}
+	
 }
