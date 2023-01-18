@@ -32,8 +32,7 @@ public class MenuPage extends SeleniumWrappers {
 	
 	public By cartCountIcon = By.xpath("//div[contains(@class, 'header-cart')]//span[@class='cart-count-icon']");
 	
-	
-	
+		
 	
 	public By getProductCategoryMenuLink(int value) {
 		

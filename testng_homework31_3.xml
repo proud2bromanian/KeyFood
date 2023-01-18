@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" >
+    <test name="123" >
+    	
+    	<parameter name="browser" value="chrome" />
+    	<parameter name="url" value="https://keyfood.ro" />
+        
+        <classes>
+            <class name="tests.Homework31_3" ></class>
+            
+        </classes>
+        
+    </test>    
+</suite>
